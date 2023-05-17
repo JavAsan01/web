@@ -39,7 +39,7 @@
         <li class="INSTRUCTOR">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">INSTRUCTORES <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo site_url();?>/instructores/nuevo">Nuevo</a></li>
+            <li><a href="<?php echo site_url();?>/instructores/nuevo">Nuevo Instructor</a></li>
             <li><a href="<?php echo site_url();?>/instructores/index">Listado</a></li>
             <!-- <li><a href="#">Something else here</a></li>
             <li role="separator" class="divider"></li>
